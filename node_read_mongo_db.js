@@ -1,4 +1,4 @@
-// mongodb+srv://jbarasa:jbarasa@cluster0.zvocyod.mongodb.net/?retryWrites=true&w=majority
+// mongodb+srv://userame:password@location
 const { MongoClient } = require("mongodb");
 
 // Replace the uri string with your connection string.
