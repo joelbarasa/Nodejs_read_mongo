@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 let uri =
-  "mongodb+srv://jbarasa:jbarasa@cluster0.zvocyod.mongodb.net/ke_CountiesDB";
+  "mongodb+srv://user:pass@address/ke_CountiesDB";
 
 async function mongoEngine() {
   mongoose.connect(uri);
